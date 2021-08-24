@@ -3,6 +3,8 @@
 3
 4 - git_01 branch updated
 5 - git_01 branch updated
+4 - updated in git_2 branch
+5 - updated in git_2 branch
 6
 7
 8
