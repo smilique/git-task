@@ -6,5 +6,5 @@ five - step 8 git_1 modified
 six - step 8 git_1 modified
 seven
 eight
-nine
-ten
+nine - step 18 git_1 modified
+ten - step 18 git_1 modified
