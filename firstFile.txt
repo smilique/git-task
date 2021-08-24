@@ -1,6 +1,6 @@
 one
-two
-three
+two - step 7 git_1 modified
+three - step 7 git_1 modified
 four
 five
 six
